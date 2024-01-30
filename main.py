@@ -15,3 +15,5 @@ def get_double(number: int):
     return number * 2
 def get_triple(number: int):
     return number * 3
+def get_half(number: int):
+    return number * 0.5
